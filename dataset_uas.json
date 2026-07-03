@@ -1,0 +1,142 @@
+{
+  "edges": [
+    {
+      "id": "1",
+      "id_Origin": "1",
+      "Latitude_1": "-7.432.484",
+      "Longitude_1": "112.727.690",
+      "Id_Destination": "3",
+      "Latitude_2": "-7.428.623",
+      "Longitude_2": "112.723.114",
+      "Range": "0.666"
+    },
+    {
+      "id": "2",
+      "id_Origin": "1",
+      "Latitude_1": "-7.432.484",
+      "Longitude_1": "112.727.690",
+      "Id_Destination": "7",
+      "Latitude_2": "7.424.991",
+      "Longitude_2": "1.127.316",
+      "Range": "0.941"
+    },
+    {
+      "id": "3",
+      "id_Origin": "3",
+      "Latitude_1": "-7.428.623",
+      "Longitude_1": "112.723.114",
+      "Id_Destination": "5",
+      "Latitude_2": "-7.427.615",
+      "Longitude_2": "112.711.109",
+      "Range": "1.341"
+    },
+    {
+      "id": "4",
+      "id_Origin": "3",
+      "Latitude_1": "-7.428.623",
+      "Longitude_1": "112.723.114",
+      "Id_Destination": "9",
+      "Latitude_2": "-7.427.040",
+      "Longitude_2": "112.723.322",
+      "Range": "0.178"
+    },
+    {
+      "id": "5",
+      "id_Origin": "7",
+      "Latitude_1": "-742.499",
+      "Longitude_1": "1.127.316",
+      "Id_Destination": "9",
+      "Latitude_2": "-7.427.040",
+      "Longitude_2": "112.723.322",
+      "Range": "0.949"
+    },
+    {
+      "id": "6",
+      "id_Origin": "7",
+      "Latitude_1": "-742.499",
+      "Longitude_1": "1.127.316",
+      "Id_Destination": "2",
+      "Latitude_2": "-7.419.945",
+      "Longitude_2": "1.127.316",
+      "Range": "0.562"
+    },
+    {
+      "id": "8",
+      "id_Origin": "5",
+      "Latitude_1": "-742.762",
+      "Longitude_1": "112.711.109",
+      "Id_Destination": "9",
+      "Latitude_2": "-7.427.040",
+      "Longitude_2": "112.723.322",
+      "Range": "1.361"
+    },
+    {
+      "id": "9",
+      "id_Origin": "9",
+      "Latitude_1": "-7.427.040",
+      "Longitude_1": "112.723.322",
+      "Id_Destination": "6",
+      "Latitude_2": "-7.412.741",
+      "Longitude_2": "112.725.288",
+      "Range": "1.607"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "1",
+      "Name": "DLHK Sidoarjo City",
+      "Sub-District": "Buduran",
+      "volume": "5",
+      "latitude": "-7.432.484",
+      "longitude": "112.727.690"
+    },
+    {
+      "id": "2",
+      "Name": "TPS Wadungasih Beseri",
+      "Sub-District": "Buduran",
+      "volume": "4",
+      "latitude": "-7.419.945",
+      "longitude": "1.127.316"
+    },
+    {
+      "id": "3",
+      "Name": "Buduran Village Depot  Rw.02 Buduran Sidoarjo",
+      "Sub-District": "Buduran",
+      "volume": "5",
+      "latitude": "-7.428.623",
+      "longitude": "112.723.114"
+    },
+    {
+      "id": "4",
+      "Name": "Kupang Sidoarjo Depot Jl.Raya Tebel Sruni Gedangan Sidoarjo",
+      "Sub-District": "Buduran",
+      "volume": "5",
+      "latitude": "-74.095.856",
+      "longitude": "1.127.270.188"
+    },
+    {
+      "id": "5",
+      "Name": "TPS 3R Sidokerto",
+      "Sub-District": "Buduran",
+      "volume": "5",
+      "latitude": "-7.427.615",
+      "longitude": "112.711.109"
+    },
+    {
+      "id": "7",
+      "Name": "TPS 3R Sidomulyo",
+      "Sub-District": "Buduran",
+      "volume": "4",
+      "latitude": "-7.424.991",
+      "longitude": "1.127.316"
+    },
+    {
+      "id": "8",
+      "Name": "TPS 3R Prasung",
+      "Sub-District": "Buduran",
+      "volume": "3",
+      "latitude": "-7.422.076",
+      "longitude": "112.748.749"
+    }
+  ]
+}
