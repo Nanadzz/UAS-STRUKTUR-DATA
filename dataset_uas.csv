@@ -1,0 +1,19 @@
+id;id_Origin;Latitude_1;Longitude_1;Id_Destination;Latitude_2;Longitude_2;Range
+1;1;-7.432.484;112.727.690;3;-7.428.623;112.723.114;0.666
+2;1;-7.432.484;112.727.690;7;7.424.991;1.127.316;0.941
+3;3;-7.428.623;112.723.114;5;-7.427.615;112.711.109;1.341
+4;3;-7.428.623;112.723.114;9;-7.427.040;112.723.322;0.178
+5;7;-742.499;1.127.316;9;-7.427.040;112.723.322;0.949
+6;7;-742.499;1.127.316;2;-7.419.945;1.127.316;0.562
+8;5;-742.762;112.711.109;9;-7.427.040;112.723.322;1.361
+9;9;-7.427.040;112.723.322;6;-7.412.741;112.725.288;1.607
+
+
+id;Name ;Sub-District;volume;latitude;longitude;;
+1;DLHK Sidoarjo City;Buduran;5;-7.432.484;112.727.690;;
+2;TPS Wadungasih Beseri;Buduran;4;-7.419.945;1.127.316;;
+3;Buduran Village Depot  Rw.02 Buduran Sidoarjo ;Buduran;5;-7.428.623;112.723.114;;
+4;Kupang Sidoarjo Depot Jl.Raya Tebel Sruni Gedangan Sidoarjo;Buduran;5;-74.095.856;1.127.270.188;;
+5;TPS 3R Sidokerto;Buduran;5;-7.427.615;112.711.109;;
+7;TPS 3R Sidomulyo;Buduran;4;-7.424.991;1.127.316;;
+8;TPS 3R Prasung;Buduran;3;-7.422.076;112.748.749;;
